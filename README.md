@@ -1,1 +1,7 @@
-# JSDOM-SyntaxError-Cannot-use-import-statement-outside-a-module
+## Steps to reproduce
+
+```bash
+npm i
+npm test
+```
+

@@ -1,0 +1,14 @@
+{
+  "name": "jsdom-parse5-esm-repro",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "21.1.2"
+  }
+}
